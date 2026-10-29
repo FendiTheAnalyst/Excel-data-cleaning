@@ -1,0 +1,9 @@
+STEP,ACTION,FIELD/COLUMN AFFECTED,TOOL/FORMULA USED,BEFORE STATE,AFTER STATE,NOTES/REASONS
+1,Removed duplicates,Entire dataset,Data > Remove duplicates,1021 rows,1021 rows,No duplicate values were found
+2,Fixed date format,Join_Date,Data > Text to column,MM/DD/YYYY,DD/MM/YYYY,Join_date column was formatted from MDY to DMY
+3,Filled missing and invalid values,"Age , Salary",CTRL + H > Find & Replace,(blank),Nil,235 blank cells were changed to Nil
+4,New columns were inserted,"Age_Status , Salary_Status",Insert,"12 columns, No identifier","14 columns, Shows identifier","Status columns were added as labels to flag missing cells, without altering the original data"
+5,Compound column separation,"Department , Region",Data > Text to column,Department_Region,"Department , Region",The Department_Region column was separated into two colums
+6,Converted data type,Salary,Home > Number format,Stored as general,Stored as currency,Enabled for calculations
+7,Joined two columns,"First_Name, Last_Name",CONCATENATE(),"First_Name, Last_Name",Full_Name,Maybe redundant with First/Last Names
+8,Converted data type,Phone,CTRL + 1 > Special,Negative values,Positive values,Transformed the phone number from negative to positive 
