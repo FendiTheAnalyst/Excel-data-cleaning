@@ -1,0 +1,9 @@
+STEP,ACTION,FIELD/COLUMN AFFECTED,TOOL/FORMULA USED,BEFORE STATE,AFTER STATE,NOTES/REASONS
+1,Field separation,Entire dataset,Data > Text to column,Delimited text,Tabular data,Transformed the dataset from a semi-structured string format into a structured tabular schema within excel
+2,Removed duplicates,Entire dataset,Data > Remove duplicates,101 rows,101 rows,6 duplicate values found and removed
+3,Column names correction,Genre & Original title,Manually,Included special characters,Special characters removed,Corrected column names and removed any special characters or extra spaces
+4,Adjusted date format,Release year,Data > Text to column,MM/DD/YYYY,DD/MM/YYYY,Release date was formatted from MDY to DMY
+5,Converted time format,Duration,Manually,Number format,hr:min:sec,Manually converted duration time into proper hr:min:sec format
+6,Handeled missing and invalid values,"Country, Content rating, Director, Income, Votes & Score",Manually,(blank),Appropriate value,619 blank cells were manually verified and replaced with correct values
+7,Converted data type,Income & Votes,Home > Number format,Stored as accounting,Stored as number,"Converted Income and Votes column to numeric by removing '$', ',', and '.' separators"
+8,Handled missing values using excel formulas,Score,Average(),(blank),Values inserted,Used Mean (AVERAGE) function to fill missing score value

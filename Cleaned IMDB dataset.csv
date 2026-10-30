@@ -1,0 +1,101 @@
+IMBD title ID,Original title,Release year,Genre,Duration,Country,Content Rating,Director,Income, Votes ,Score
+tt0111161,The Shawshank Redemption,10/02/1995,Drama,02:22:00,USA,R,Frank Darabont,28815245,2278845,9.3
+tt0068646,The Godfather,21/09/1972,Crime,02:55:00,USA,R,Francis Ford Coppola,250935560,2243974,9.2
+tt0468569,The Dark Knight,23/07/2008,Action,02:32:00,USA,PG-13,Christopher Nolan,1008480529,3209279,9.2
+tt0071562,The Godfather: Part II,25/09/1975,Crime,03:22:00,USA,R,Francis Ford Coppola,48211703,1500825,9.1
+tt0110912,Pulp Fiction,28/10/1994,Crime,02:34:00,USA,R,Quentin Tarantino,213928762,2447946,9.1
+tt0167260,The Lord of the Rings: The Return of the King,22/02/2004,Action,03:21:00,New Zealand,PG-13,Peter Jackson,1138063541,2178953,9.0
+tt0108052,Schindler's List,11/03/1994,Biography,03:16:00,USA,R,Steven Spielberg,322161245,1537016,9.0
+tt0050083,12 Angry Men,04/09/1957,Crime,01:36:00,USA,PG,Sydney Lument,15647,948005,8.9
+tt1375666,Inception,24/09/2010,Action,02:28:00,UK,PG-13,Christopher Nolan,839796627,2829519,8.9
+tt0137523,Fight Club,29/10/1999,Drama,02:19:00,UK,R,David Fincher,101218804,1807440,8.8
+tt0109830,Forrest Gump,06/10/1994,Drama,02:22:00,USA,PG-13,Robert Zemeckis,678226465,2516524,8.8
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,18/01/2002,Action,02:58:00,New Zealand,PG-13,Peter Jackson,897538741,2227094,8.8
+tt0060196,Il buono,23/12/1966,Action,02:28:00,Italy,R,Segion Leone,25283525,895373,8.8
+tt0133093,The Matrix,07/05/1999,Action,02:16:00,USA,R,"Lana Wachowski, Lily wachowski",473333509,2268376,8.8
+tt0167261,The Lord of the Rings: The Two Towers,16/01/2003,Action,02:59:00,USA,PG-13,Peter Jackson,945184312,1972345,8.7
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,19/09/1980,Action,02:04:00,USA,PG,Irvin Kershner,550016086,1514575,8.7
+tt0099685,Goodfellas,20/09/1990,Biography,02:25:00,USA,R,Martin Scorsese,47293367,1394782,8.7
+tt0073486,One Flew Over the Cuckoo's Nest,18/11/1976,Drama,02:13:00,USA,R,Milos Forman,108997629,891071,8.7
+tt0816692,Interstellar,06/11/2014,Adventure,02:49:00,USA,PG-13,Christopher Nolan,758614115,2410398,8.7
+tt0114369,Se7en,15/12/1995,Crime,02:07:00,USA,R,David Fincher,327333559,1952859,8.7
+tt0102926,The Silence of the Lambs,05/03/1991,Crime,01:58:00,USA,R,Johnathan Demme,272742922,1664838,8.7
+tt0076759,Star Wars,20/10/1977,Action,02:01:00,USA,PG,George Lucas,775398507,1533163,8.7
+tt0120815,Saving Private Ryan,30/10/1998,Drama,02:49:00,USA,R,Steven Spielberg,482352390,1594812,8.6
+tt0120689,The Green Mile,03/10/2000,Crime,03:09:00,USA,R,Frank Darabont,286801374,1513300,8.6
+tt0317248,Cidade de Deus,09/05/2003,Crime,02:10:00,Brazil,R,Fernando Meirelles,30685656,850027,8.6
+tt0245429,Sen to Chihiro no kamikakushi,18/04/2003,Animation,02:05:00,Japan,PG,Hayao Miyazaki,360180123,931953,8.6
+tt0118799,La vita e bella,20/12/1997,Comedy,01:56:00,Italy,PG-13,Roberto Benigni,230099013,790802,8.6
+tt6751668,Gisaengchung,07/11/2019,Comedy,02:12:00,South Korea,R,Bong Joon Ho,262617321,1102426,8.6
+tt0038650,It's a Wonderful Life,11/03/1948,Drama,02:09:00,USA,PG,Frank Capra,11496793,534834,8.6
+tt0047478,Shichinin no samurai,19/08/1955,Action,03:27:00,Japan,PG-13,Akira Kurosawa,1092104,390932,8.6
+tt0172495,Gladiator,19/05/2000,Action,02:35:00,USA,R,Ridley Scott,465516248,1795715,8.5
+tt0407887,The Departed,27/10/2006,Crime,02:31:00,USA,R,Martin Scorsese,292095942,1513494,8.5
+tt0482571,The Prestige,22/12/2006,Drama,02:10:00,USA,PG-13,Christopher Nolan,109676311,1542287,8.5
+tt0088763,Back to the Future,18/10/1985,Adventure,01:56:00,USA,PG,Robert Zemeckis,392976852,1403793,8.5
+tt0120586,American History X,27/08/1999,Drama,01:59:00,USA,R,Tony Kaye,23875127,1014218,8.5
+tt0110413,Leon,07/04/1995,Action,01:50:00,USA,R,Luc Besson,20330788,1320859,8.5
+tt0103064,Terminator 2: Judgment Day,19/12/1991,Action,02:27:00,USA,R,James Cameron,517778573,1252054,8.5
+tt0114814,The Usual Suspects,30/11/1995,Crime,01:46:00,USA,R,Bryan Singer,23342724,1207784,8.4
+tt0110357,The Lion King,25/11/1994,Animation,01:28:00,USA,G,Rob Minkoff,979163108,1223945,8.4
+tt7286456,Joker,03/10/2019,Crime,02:02:00,USA,R,Todd Philips,1078958629,1642689,8.4
+tt1675434,Intouchables,24/02/2012,Biography,01:52:00,France,R,Olivier Nakache,426588510,995399,8.4
+tt0253474,The Pianist,25/10/2002,Biography,02:30:00,Poland,R,Roman Polanski,120098945,984801,8.4
+tt2582802,Whiplash,12/02/2015,Drama,01:47:00,USA,R,Damien Chazelle,50431161,1101708,8.4
+tt0054215,Psycho,28/10/1960,Horror,01:49:00,USA,R,Alfred Hitchcock,32332374,764032,8.3
+tt0034583,Casablanca,21/11/1946,Drama,01:42:00,USA,PG,Michael Curtiz,4757681,640576,8.3
+tt0064116,C'era una volta il West,21/12/1968,Western,02:55:00,Italy,PG-13,Sergio Leone,112911,29522,8.3
+tt0095327,Hotaru no haka,11/10/2015,Animation,01:29:00,Japan,PG-13,Isao Takahata,516962,363022,8.3
+tt0095765,Nuovo Cinema Paradiso,17/11/1988,Drama,02:35:00,Italy,PG,Giuseppe Tornatore,13826605,22305,8.3
+tt0027977,Modern Times,12/03/1937,Comedy,01:27:00,USA,PG,Charlie Chaplin,469661,277203,8.3
+tt1345836,The Dark Knight Rises,29/08/2012,Action,02:44:00,USA,PG-13,Christopher Nolan,1085429692,1944032,8.3
+tt1853728,Django Unchained,17/01/2013,Drama,02:45:00,USA,R,Quentin Tarantino,426079005,1824985,8.3
+tt0209144,Memento,19/01/2001,Mystery,01:53:00,USA,R,Christopher Nolan,43262033,1400332,8.2
+tt0910970,WALL ·E,17/10/2008,Animation,01:38:00,USA,G,Andrew Stanton,527405094,1282446,8.2
+tt0081505,The Shining,22/12/1980,Drama,02:23:00,USA,R,Stanley Kubrick,50339292,1186545,8.2
+tt0082971,Raiders of the Lost Ark,12/06/1981,Action,01:55:00,USA,PG,Steven Spielberg,389925971,1088235,8.2
+tt4154756,Avengers: Infinity War,25/04/2018,Action,02:29:00,USA,PG-13,Joe Russo,2052415039,1321068,8.2
+tt0078748,Alien,25/10/1979,Horror,01:57:00,USA,R,Ridley Scott,109726643,1034952,8.2
+tt4154796,Avengers: Endgame,24/04/2019,Action,03:05:00,USA,PG-13,"Anthony Russo, Joe Russo",2942182144,1390572,8.1
+tt0078788,Apocalypse Now,18/12/1979,Drama,02:33:00,USA,R,Francis Ford Coppola,105521176,752410,8.1
+tt0364569,Oldeuboi,06/05/2005,Action,02:00:00,South Korea,R,Park Chan-wook,17617220,694384,8.1
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,03/04/1964,Comedy,01:35:00,UK,PG,Stanley Kubrick,9443876,441115,8.1
+tt0047396,Rear Window,14/04/1955,Mystery,01:52:00,USA,PG,Alfred Hitchcock,37926612,555140,8.1
+tt2380307,Coco,28/12/2017,Animation,01:45:00,USA,PG,Adrian Molina,830570269,669891,8.1
+tt0405094,Das Leben der Anderen,06/04/2007,Drama,02:17:00,Germany,R,Florian Henckel von Donnersmarck,77672685,432896,8.1
+tt4633694,Spider-Man: Into the Spider-Verse,25/12/2018,Animation,01:56:00,USA,PG,Peter Ramsey,394884133,753110,8.1
+tt1187043,3 Idiots,25/12/2009,Comedy,02:50:00,India,PG-13,Rajkumar Hirani,60262836,468151,8.1
+tt0119698,Mononoke-hime,19/05/2000,Animation,02:13:00,Japan,PG-13,Hayao Miyazaki,35463432,469375,8.0
+tt0087843,Once Upon a Time in America,28/09/1984,Crime,03:49:00,USA,R,Sergio Leone,5480036,400387,8.0
+tt0032553,The Great Dictator,25/06/1945,Comedy,02:05:00,USA,G,Charlie Chaplin,972212,252007,8.0
+tt0043014,Sunset Blvd.,06/03/1951,Drama,01:50:00,USA,PG,Billy Wilder,340105,252878,8.0
+tt0361748,Inglourious Basterds,02/10/2009,Adventure,02:33:00,Germany,R,Quentin Tarantino,321461428,1720454,8.0
+tt0169547,American Beauty,21/01/2000,Drama,02:02:00,USA,R,Sam Mendes,356296601,1049009,8.0
+tt0112573,Braveheart,01/12/1995,Biography,02:58:00,USA,R,Mel Gibson,213216216,1141566,8.0
+tt0086190,Star Wars: Episode VI - Return of the Jedi,21/10/1983,Action,02:14:00,USA,PG,Richard Marquand,482466382,1182378,8.0
+tt0105236,Reservoir Dogs,09/10/1992,Crime,01:39:00,USA,R,Quentin Tarantino,2942225,1147256,7.9
+tt0338013,Eternal Sunshine of the Spotless Mind,22/10/2004,Drama,01:48:00,USA,R,Michael Gondry,72941954,1154167,7.9
+tt0114709,Toy Story,22/03/1996,Animation,01:21:00,USA,G,John Lasseter,401157969,1142115,7.9
+tt0119217,Good Will Hunting,06/03/1998,Drama,02:06:00,USA,R,Gus Van Sant,225933435,1164934,7.9
+tt0208092,Snatch,16/03/2001,Comedy,01:44:00,UK,R,Guy Ritchie,83558617,957682,7.8
+tt0180093,Requiem for a Dream,15/12/2000,Drama,01:42:00,USA,R,Darren Aronofsky,7390108,748291,7.8
+tt0066921,A Clockwork Orange,07/09/1972,Crime,02:16:00,UK,R,Stanley Kubrick,27195065,921279,7.8
+tt0435761,Toy Story 3,07/07/2010,Animation,01:43:00,USA,G,Lee Unkrich,1067316101,946141,7.8
+tt0086250,Scarface,03/02/1984,Crime,02:50:00,USA,R,Brian De Palma,66443303,986226,7.7
+tt0075314,Taxi Driver,09/02/1976,Crime,01:54:00,USA,R,Martin Scorsese,29004075,996998,7.7
+tt0211915,Le fabuleux destin d'amelie Poulain,25/01/2002,Comedy,02:02:00,France,R,Jean-Pierre Jeunet,175556451,826377,7.7
+tt0093058,Full Metal Jacket,09/10/1987,Drama,01:56:00,USA,R,Stanley Kubrick,50882366,833530,7.7
+tt0090605,Aliens,24/09/1986,Action,02:34:00,USA,R,James Cameron,131060248,821235,7.7
+tt0062622,2001: A Space Odyssey,12/12/1968,Adventure,02:29:00,USA,G,Stanley Kubrick,70172596,764656,7.6
+tt0033467,Citizen Kane,25/11/1948,Drama,01:59:00,USA,PG,Orson Welles,1970128,486530,7.6
+tt8579674,1917,23/01/2020,Drama,01:59:00,UK,R,Sam Mendes,446058948,744307,7.6
+tt0086879,Amadeus,15/02/1985,Biography,03:00:00,USA,R,Milos Forman,52271162,455210,7.6
+tt0052357,Vertigo,18/11/1958,Mystery,02:09:00,USA,PG,Alfred Hitchcock,8102790,450950,7.5
+tt0053125,North by Northwest,28/10/1959,Adventure,02:16:00,USA,PG,Alfred Hitchcock,210327,364139,7.5
+tt2106476,Jagten,22/11/2012,Drama,01:55:00,Denmark,R,Thomas Vinterberg,15843274,269616,7.5
+tt0056172,Lawrence of Arabia,29/10/1963,Adventure,03:46:00,UK,PG,David Lean,46401665,333860,7.5
+tt0070735,The Sting,21/03/1974,Comedy,02:09:00,USA,PG,George Roy Hill,156005969,294216,7.5
+tt0082096,Das Boot,18/03/1982,Adventure,02:29:00,Germany,R,Wolfgang Petersen,11489279,282445,7.4
+tt0059578,Per qualche dollaro in piu,20/12/1965,Western,02:12:00,Italy,R,Sergio Leone,15000000,226039,7.4
+tt1832382,Jodaeiye Nader az Simin,21/10/2011,Drama,02:03:00,Iran,PG-13,Asghar Farhadi,22926076,214165,7.4
+tt0045152,Singin' in the Rain,05/02/1953,Comedy,01:43:00,USA,G,Gene Kelly,2113091,276364,7.4
